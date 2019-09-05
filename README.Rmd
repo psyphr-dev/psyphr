@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# psyphr
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of psyphr is to ...
+
+## Documentation
+
+- Introduction to Psyphr
+
+## TODO
+
+The development team considers the following:
+
+- Submit `psyphr` to [rOpenSci](https://ropensci.org/) for peer review and publication
+- Customizable data QA utilities with meaningful defaults
+- Common, publication-grade visualization schemes
+- Compatibility on data feeds from other popular data collection and processing systems (e.g., [BIOPAC](https://www.biopac.com/))
+
+
+## Acknowledgements
+
+`psyphr` was founded at the [Uncoast Unconf 2019](https://github.com/uncoast-unconf/uu-2019) with the help of [Amanda Gadrow](https://github.com/ajmcoqui) and [Audrey McCombs](https://github.com/almccombs). Travel to the Uncoast Unconf was supported by Colorado State University (Department of Human Development and Family Studies and The Graduate School) and the Uncoast Unconf organizing committee, particularly [Dr. Sam Tyner](https://sctyner.github.io/). 
+
+This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. 006784-00002 [to KEW]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
